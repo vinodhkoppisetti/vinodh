@@ -1,0 +1,35 @@
+.main-heading{
+  text-align: center;
+  margin-top: 0;
+  font-family: "cursive";
+}
+.main-container{
+  background-image: url("https://images.pexels.com/photos/247899/pexels-photo-247899.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-color:#e6e6e6;
+  background-size: cover;
+  height: 100;
+}
+label{
+  font-family: "cursive";
+  font-weight: bold;
+}
+.label{
+  font-family: "cursive";
+  font-weight: bold;
+}
+.input_width{
+  width: 50;
+}
+input{
+  width: 100;
+}
+
+.navbar-image{
+  height: 40px;
+  width: 40px;
+}
+
+.image2{
+  height: 400px;
+  width: 300px;
+}
